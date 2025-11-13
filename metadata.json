@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Engineer",
+  "description": "Upload an image and this AI will analyze it to generate a detailed, structured prompt (positive, negative, and parameters) for image-generation models like Midjourney, DALL·E, or Stable Diffusion.",
+  "requestFramePermissions": []
+}
